@@ -1,5 +1,5 @@
 # crudvue
-
+Este es un Crud desarrollado todo el frontend en VUE y se conecta a una Base de datos de MySQL utilizando una API creada en PHP.
 ## Project setup
 ```
 npm install
